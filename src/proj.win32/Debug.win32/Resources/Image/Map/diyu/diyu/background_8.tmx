@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="2017.05.26" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="50" tileheight="50" nextobjectid="1">
+ <tileset firstgid="1" source="wall_1.tsx"/>
+ <tileset firstgid="11" source="floor_1.tsx"/>
+ <layer name="BackGround" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzlk+EKwCAIhAXX3v+RV7ADicuibr92IMFZn0poxuU1rsQfnUzNLzVukoOP0yf37fVHub7Pnst6m7EiD7Oy/sBa4eE9Zo881FllZTUi54RlQg5URJw/y8Us5Z9kO7zLU/en5GGXVfpqXmU8F1IBwg==
+  </data>
+ </layer>
+ <layer name="Floor" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzlkckOwzAIRH3P0mZt/f8/Gg4Z6QkpwaW9FWkEwtYwDKXcx3RiNizB35ZYT2yG/Usu6nobasnrJNcOvqxO7UjeF3iz2ugd+8rRrfye1ERu5atbdYbevVf0B8et7D2QltHwcO9P9KNaMyNPWmvxRZ601tLK/TSjS9S8MbV/4pmvFdSe9W8GH3fO+reBj7Oy/vUXfP/g3y/jACGfFCQ=
+  </data>
+ </layer>
+</map>

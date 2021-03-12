@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="2017.05.26" orientation="orthogonal" renderorder="left-down" width="20" height="20" tilewidth="50" tileheight="50" nextobjectid="1">
+ <tileset firstgid="1" source="untitled.tsx"/>
+ <layer name="BackGround" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYEAFfIyoGFmcHIBL32AyD5tecs1DNhM9/HDZRYq5xNhFiXmUmEuMWnzhgg0Tay+lYUsvQMi/xPqfHP8SMo8cd5NqHrlxNRTKEVLFyYl7WpV/5Jb3AGdZBSk=
+  </data>
+ </layer>
+</map>

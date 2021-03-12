@@ -1,0 +1,14 @@
+{
+    "GameName":"星陨",
+    "Start": "开始新游戏",
+    "Option": "设置",
+    "Exit": "退出游戏",
+   "Load": "读取游戏",
+    "BGM": "背景音量",
+  "Effect": "音效音量",
+  "Instruction": "说明",
+  "Return": "返回",
+  "SaveOption": "保存设置",
+  "Confirm": "确认",
+  "Cancel": "取消"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="2017.05.26" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" source="untitled.tsx"/>
+ <layer name="BackGround" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1ldWVVEAwNBHlSYK0kQFQSnSm8D8R2ZG4c1aOR/52hPI3Gw2m6cFWqQlWqYPNDfsv9sKrdIardMGfaTNYZPYJ/pMW7RNX2iHdodNYnu0Twf0lQ7pG30fNon9oCM6pp90Qqf0a9gk9pvO6Jwu6JL+0NWwSeyabuiW7uieHuhx2CT2RM/0Qn/pld7ofdgkZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHLZnzwshkfvGzGBy+b8cHL9g8N4UGx
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="2017.05.26" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="50" tileheight="50" nextobjectid="1">
+ <tileset firstgid="1" source="wall_1.tsx"/>
+ <tileset firstgid="11" source="floor_1.tsx"/>
+ <layer name="BackGround" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjZmBgYAFiZhw0OsCmjhmJzwrEbHhodIBNHSsSH5secgHMfGoBXH6ixDxquo/a4Udt91HbPJiZ1ATUDD8QGMzuo0X8jjT3DWb/gtzGiIaZ0PjIZTk6YELCMPUAM2MBSw==
+  </data>
+ </layer>
+ <layer name="L2" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJyllMEOAyEIRLlLNPr/H1sPJX07wnabkkzMAo4wrJrdW9twrP9a3xhYn1gDXL7nxsLaCrjwkacDE/FeoOIjB8FaM3yrjz1EPs9ads5J+bRP1ZP1LPvMJ3KG8GmfPFfrzniX8DFH58ia2bPb2b/Zef7djGfB58Kn/4P27JbXE9oFWJ9qzplEPusZ73UBZtd5UkP6Ne529hw27fqf847pXYjYSPLJp5rHHr0L4ecMMr6WxBf2jwd+5au04v7MX+lXvR3VnVVNVb8M3KNvq+r6q+nbmtkLm1ASEA==
+  </data>
+ </layer>
+</map>

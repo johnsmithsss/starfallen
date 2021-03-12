@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="2017.05.26" orientation="orthogonal" renderorder="left-down" width="20" height="20" tilewidth="50" tileheight="50" nextobjectid="1">
+ <tileset firstgid="1" source="untitled.tsx"/>
+ <layer name="BackGround" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYEAAPkYIRuYji+PD2AC6OLJ5+AA+8/C5j1Tz0OVwsQfKPFz+pcQ8XHxi3UAN87CZj80eYtMYITWDCVDqXkLhRY555MiNmkeceeh5gtyyFJd5lABqmAcA6SoFZQ==
+  </data>
+ </layer>
+ <layer name="L1" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJytlFEOgDAIQ7uPef9j4C3VmEVsChI3EqKZ7A1G0QDY6Tse6w3Y2v1uqNlgjOfgXSzF8+vDOU7xsvw6cSKe4V2zilM5ruJx3YqX1TvD60Ec8/yZq3mqRtAefzZ/+4phTVV9E/5nH2umWpPSrtKeN9UP5ikNR/2I5reSY8TLNKG4X/lFM5r1ZhWvcn/Z/FbM98D/XxTPJnwF7wDiolTe
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,39 @@
+﻿  MainScene.cpp
+MainScene.cpp(50): warning C4305: “参数”: 从“double”到“float”截断
+MainScene.cpp(59): warning C4305: “参数”: 从“double”到“float”截断
+MainScene.cpp(66): warning C4305: “参数”: 从“double”到“float”截断
+MainScene.cpp(68): warning C4305: “参数”: 从“double”到“float”截断
+MainScene.cpp(45): warning C4996: 'cocos2d::Animation::addSpriteFrameWithFileName': 被声明为已否决
+  g:\temp\starfallen\starfallen\cocos2d\cocos\2d/CCAnimation.h(207): note: 参见“cocos2d::Animation::addSpriteFrameWithFileName”的声明
+MainScene.cpp(46): warning C4996: 'cocos2d::Animation::addSpriteFrameWithFileName': 被声明为已否决
+  g:\temp\starfallen\starfallen\cocos2d\cocos\2d/CCAnimation.h(207): note: 参见“cocos2d::Animation::addSpriteFrameWithFileName”的声明
+MainScene.cpp(47): warning C4996: 'cocos2d::Animation::addSpriteFrameWithFileName': 被声明为已否决
+  g:\temp\starfallen\starfallen\cocos2d\cocos\2d/CCAnimation.h(207): note: 参见“cocos2d::Animation::addSpriteFrameWithFileName”的声明
+MainScene.cpp(48): warning C4996: 'cocos2d::Animation::addSpriteFrameWithFileName': 被声明为已否决
+  g:\temp\starfallen\starfallen\cocos2d\cocos\2d/CCAnimation.h(207): note: 参见“cocos2d::Animation::addSpriteFrameWithFileName”的声明
+MainScene.cpp(49): warning C4996: 'cocos2d::Animation::addSpriteFrameWithFileName': 被声明为已否决
+  g:\temp\starfallen\starfallen\cocos2d\cocos\2d/CCAnimation.h(207): note: 参见“cocos2d::Animation::addSpriteFrameWithFileName”的声明
+MainScene.cpp(54): warning C4996: 'cocos2d::Animation::addSpriteFrameWithFileName': 被声明为已否决
+  g:\temp\starfallen\starfallen\cocos2d\cocos\2d/CCAnimation.h(207): note: 参见“cocos2d::Animation::addSpriteFrameWithFileName”的声明
+MainScene.cpp(55): warning C4996: 'cocos2d::Animation::addSpriteFrameWithFileName': 被声明为已否决
+  g:\temp\starfallen\starfallen\cocos2d\cocos\2d/CCAnimation.h(207): note: 参见“cocos2d::Animation::addSpriteFrameWithFileName”的声明
+MainScene.cpp(56): warning C4996: 'cocos2d::Animation::addSpriteFrameWithFileName': 被声明为已否决
+  g:\temp\starfallen\starfallen\cocos2d\cocos\2d/CCAnimation.h(207): note: 参见“cocos2d::Animation::addSpriteFrameWithFileName”的声明
+MainScene.cpp(57): warning C4996: 'cocos2d::Animation::addSpriteFrameWithFileName': 被声明为已否决
+  g:\temp\starfallen\starfallen\cocos2d\cocos\2d/CCAnimation.h(207): note: 参见“cocos2d::Animation::addSpriteFrameWithFileName”的声明
+MainScene.cpp(58): warning C4996: 'cocos2d::Animation::addSpriteFrameWithFileName': 被声明为已否决
+  g:\temp\starfallen\starfallen\cocos2d\cocos\2d/CCAnimation.h(207): note: 参见“cocos2d::Animation::addSpriteFrameWithFileName”的声明
+MainScene.cpp(133): warning C4996: 'cocos2d::Sprite::setFlipX': 被声明为已否决
+  g:\temp\starfallen\starfallen\cocos2d\cocos\2d/CCSprite.h(426): note: 参见“cocos2d::Sprite::setFlipX”的声明
+MainScene.cpp(156): warning C4996: 'cocos2d::Sprite::setFlipX': 被声明为已否决
+  g:\temp\starfallen\starfallen\cocos2d\cocos\2d/CCSprite.h(426): note: 参见“cocos2d::Sprite::setFlipX”的声明
+MainScene.cpp(247): warning C4305: “参数”: 从“double”到“float”截断
+    正在创建库 G:\temp\StarFallen\StarFallen\proj.win32\Release.win32\StarFallen.lib 和对象 G:\temp\StarFallen\StarFallen\proj.win32\Release.win32\StarFallen.exp
+  正在生成代码
+  1 of 1155 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  StarFallen.vcxproj -> G:\temp\StarFallen\StarFallen\proj.win32\Release.win32\StarFallen.exe
+  StarFallen.vcxproj -> G:\temp\StarFallen\StarFallen\proj.win32\Release.win32\StarFallen.pdb (Full PDB)
+  复制了 0 个文件

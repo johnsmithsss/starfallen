@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Sence">
+      <UniqueIdentifier>{898dda23-6eb4-49c4-9f1e-82c0d937c59d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Json">
+      <UniqueIdentifier>{21966212-fcaf-4d45-8c5b-a3662778a59f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Control">
+      <UniqueIdentifier>{dbcdfdf3-df26-4530-9618-5c1723f8e22d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\File">
+      <UniqueIdentifier>{0a364bcb-4f35-4571-95fc-74d390e6bd0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Debug">
+      <UniqueIdentifier>{ba9328c4-db81-4bae-b226-f5f0b5c3bf8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Role&amp;Attruibutes">
+      <UniqueIdentifier>{73b6dc05-8b61-4257-bb70-b240238f3ea5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\MapBox">
+      <UniqueIdentifier>{129f6a82-53a4-4a56-bc96-a5867e87b431}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Player&amp;Monster">
+      <UniqueIdentifier>{2d762b1c-33b1-424a-9081-ce582175742d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\GoodS&amp;Equipment">
+      <UniqueIdentifier>{a578f2f9-10d4-43c4-93a7-36c69a5670ee}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="StartScene.cpp">
+      <Filter>src\Sence</Filter>
+    </ClCompile>
+    <ClCompile Include="..\jsoncpp-src-0.5.0\jsoncpp-src-0.5.0\src\lib_json\json_reader.cpp">
+      <Filter>src\Json</Filter>
+    </ClCompile>
+    <ClCompile Include="..\jsoncpp-src-0.5.0\jsoncpp-src-0.5.0\src\lib_json\json_value.cpp">
+      <Filter>src\Json</Filter>
+    </ClCompile>
+    <ClCompile Include="..\jsoncpp-src-0.5.0\jsoncpp-src-0.5.0\src\lib_json\json_writer.cpp">
+      <Filter>src\Json</Filter>
+    </ClCompile>
+    <ClCompile Include="Controlcpp.cpp">
+      <Filter>src\Control</Filter>
+    </ClCompile>
+    <ClCompile Include="FirstScene.cpp">
+      <Filter>src\Sence</Filter>
+    </ClCompile>
+    <ClCompile Include="J_RW.cpp">
+      <Filter>src\File</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadScene.cpp">
+      <Filter>src\Sence</Filter>
+    </ClCompile>
+    <ClCompile Include="MainScene.cpp">
+      <Filter>src\Sence</Filter>
+    </ClCompile>
+    <ClCompile Include="MapBox.cpp">
+      <Filter>src\MapBox</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="StartScene.h">
+      <Filter>src\Sence</Filter>
+    </ClInclude>
+    <ClInclude Include="..\jsoncpp-src-0.5.0\jsoncpp-src-0.5.0\src\lib_json\json_batchallocator.h">
+      <Filter>src\Json</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonReader.h">
+      <Filter>src\Json</Filter>
+    </ClInclude>
+    <ClInclude Include="Control.h">
+      <Filter>src\Control</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="J_RW.h">
+      <Filter>src\File</Filter>
+    </ClInclude>
+    <ClInclude Include="FirstScene.h">
+      <Filter>src\Sence</Filter>
+    </ClInclude>
+    <ClInclude Include="MessageBoxWithFormat.h">
+      <Filter>src\Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadScene.h">
+      <Filter>src\Sence</Filter>
+    </ClInclude>
+    <ClInclude Include="MainScene.h">
+      <Filter>src\Sence</Filter>
+    </ClInclude>
+    <ClInclude Include="Role.h">
+      <Filter>src\Role&amp;Attruibutes</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicAttributes.h">
+      <Filter>src\Role&amp;Attruibutes</Filter>
+    </ClInclude>
+    <ClInclude Include="MapBox.h">
+      <Filter>src\MapBox</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>src\Player&amp;Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>src\Player&amp;Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Goods.h">
+      <Filter>src\GoodS&amp;Equipment</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\jsoncpp-src-0.5.0\jsoncpp-src-0.5.0\src\lib_json\json_internalarray.inl">
+      <Filter>src\Json</Filter>
+    </None>
+    <None Include="..\jsoncpp-src-0.5.0\jsoncpp-src-0.5.0\src\lib_json\json_internalmap.inl">
+      <Filter>src\Json</Filter>
+    </None>
+    <None Include="..\jsoncpp-src-0.5.0\jsoncpp-src-0.5.0\src\lib_json\json_valueiterator.inl">
+      <Filter>src\Json</Filter>
+    </None>
+    <None Include="..\jsoncpp-src-0.5.0\jsoncpp-src-0.5.0\src\lib_json\sconscript">
+      <Filter>src\Json</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\game.ico" />
+  </ItemGroup>
+</Project>
